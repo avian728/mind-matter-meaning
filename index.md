@@ -11,19 +11,19 @@ description: Exploring reality through science, philosophy, and literature.
     <p class="hero-byline">By Abhay Pandey</p>
     <div class="hero-actions">
       <a class="button" href="{{ '/archive/' | relative_url }}">Browse Archive</a>
-      <a class="button secondary" href="{{ '/search/' | relative_url }}">Search Essays</a>
+      <a class="button secondary" href="{{ '/search/' | relative_url }}">Search Articles</a>
     </div>
   </div>
 </section>
 
 <section class="section">
-  <p class="eyebrow">Featured Essay</p>
+  <p class="eyebrow">Featured Article</p>
   {% assign featured = site.posts | where: "title", "Why Do We Need Philosophy?" | first %}
   {% if featured %}{% include post-card.html post=featured %}{% endif %}
 </section>
 
 <section class="section">
-  <p class="eyebrow">Latest Essays</p>
+  <p class="eyebrow">Latest Articles</p>
   <div class="card-grid">
     {% for post in site.posts limit:6 %}
       {% include post-card.html post=post %}

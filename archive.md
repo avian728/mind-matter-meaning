@@ -1,6 +1,6 @@
 ---
 title: Archive
-subtitle: All essays in chronological order.
+subtitle: All articles in chronological order.
 permalink: /archive/
 ---
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}

@@ -1,5 +1,5 @@
 ---
 title: Literature
 slug: literature
-subtitle: Essays about form, interpretation, and human experience.
+subtitle: Articles about form, interpretation, and human experience.
 ---

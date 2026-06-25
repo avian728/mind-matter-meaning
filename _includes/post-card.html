@@ -1,5 +1,5 @@
 <article class="post-card">
-  <p class="eyebrow">{{ include.post.categories | first | default: "Essay" }}</p>
+  <p class="eyebrow">{{ include.post.categories | first | default: "Article" }}</p>
   <h3><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h3>
   {% if include.post.subtitle %}<p>{{ include.post.subtitle }}</p>{% endif %}
   <div class="meta">

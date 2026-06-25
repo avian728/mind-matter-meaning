@@ -1,5 +1,5 @@
 ---
 title: Physics
 slug: physics
-subtitle: Essays about physical law, matter, and measurement.
+subtitle: Articles about physical law, matter, and measurement.
 ---

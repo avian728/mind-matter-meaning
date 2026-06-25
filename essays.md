@@ -1,5 +1,5 @@
 ---
-title: Essays
+title: Articles
 subtitle: Long-form writing across the archive.
 permalink: /essays/
 ---

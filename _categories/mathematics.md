@@ -1,5 +1,5 @@
 ---
 title: Mathematics
 slug: mathematics
-subtitle: Essays about abstraction, proof, and structure.
+subtitle: Articles about abstraction, proof, and structure.
 ---

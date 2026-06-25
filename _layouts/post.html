@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post">
   <header class="post-header">
-    <p class="eyebrow">{{ page.categories | first | default: page.category | default: "Essay" }}</p>
+    <p class="eyebrow">{{ page.categories | first | default: page.category | default: "Article" }}</p>
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<p class="lede">{{ page.subtitle }}</p>{% endif %}
     <div class="meta">
