@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I am Abhay Pandey, a PhD researcher in Physics. My interests extend across philosophy, science, literature, knowledge, reality, consciousness, meaning, and critical thinking.
 
-Mind • Matter • Meaning is my personal academic knowledge platform. I use it to collect essays, reflections, reading notes, research notes, and interdisciplinary thinking. The site is meant to be a durable place for careful thought rather than a place for quick conclusions.
+Mind • Matter • Meaning is my personal academic knowledge platform. I use it to collect articles, reflections, book notes, and interdisciplinary thinking. The site is meant to be a durable place for careful thought rather than a place for quick conclusions.
 
 ## Purpose of This Website
 
@@ -22,6 +22,6 @@ I want the writing here to remain clear, modest, and revisable. Some pages may b
 - History of science
 - Consciousness
 - Meaning
-- Books and reading notes
+- Books and reflective reading
 
 This website reflects an ongoing learning process. Corrections, suggestions, and thoughtful discussion are welcome.

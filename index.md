@@ -39,7 +39,6 @@ description: Exploring reality through science, philosophy, and literature.
     <article class="post-card"><h3><a href="{{ '/physics/' | relative_url }}">Physics</a></h3><p>Quantum theory, relativity, thermodynamics, and mathematical physics.</p></article>
     <article class="post-card"><h3><a href="{{ '/mathematics/' | relative_url }}">Mathematics</a></h3><p>Proof, structure, logic, statistics, and linear algebra.</p></article>
     <article class="post-card"><h3><a href="{{ '/literature/' | relative_url }}">Literature</a></h3><p>Interpretation, form, criticism, and human experience.</p></article>
-    <article class="post-card"><h3><a href="{{ '/research-notes/' | relative_url }}">Research Notes</a></h3><p>Short technical notes, bibliographies, figures, and open questions.</p></article>
   </div>
 </section>
 

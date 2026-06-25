@@ -8,7 +8,6 @@ Mind • Matter • Meaning is a static academic website built with Jekyll, Mark
 - `_layouts/` contains the default, page, post, category, and tag templates.
 - `_includes/` contains reusable fragments for the head, navigation, footer, reading time, related articles, and post cards.
 - `_posts/` stores essays as Markdown files named `YYYY-MM-DD-title.md`.
-- `_research_notes/` stores shorter technical notes.
 - `_categories/` and `_tags/` provide optional landing pages for durable taxonomy URLs.
 - `_data/books.yml` stores book data used by `books.md`.
 - `assets/css/main.css` contains the complete visual system.
@@ -94,10 +93,6 @@ permalink: /new-page/
 ```
 
 Add navigation items in `_data/navigation.yml`.
-
-## Research Notes
-
-Create notes in `_research_notes/`. They use the same post layout and can include mathematics, figures, references, and further reading.
 
 ## Bibliography and References
 

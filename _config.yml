@@ -31,9 +31,6 @@ collections:
   tags:
     output: true
     permalink: /tags/:name/
-  research_notes:
-    output: true
-    permalink: /research-notes/:name/
 
 defaults:
   - scope:
@@ -58,13 +55,6 @@ defaults:
       type: tags
     values:
       layout: tag
-  - scope:
-      path: ""
-      type: research_notes
-    values:
-      layout: post
-      category: research-notes
-
 exclude:
   - README.md
   - Gemfile
