@@ -42,7 +42,7 @@
             return;
           }
           const matches = items.filter((item) =>
-            [item.title, item.subtitle, item.category, item.tags, item.excerpt]
+            [item.title, item.subtitle, item.category, item.excerpt]
               .join(" ")
               .toLowerCase()
               .includes(query)

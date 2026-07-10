@@ -7,7 +7,6 @@ date: 2026-06-25
 last_updated: 2026-06-25
 category: mathematics
 categories: [mathematics]
-tags: [mathematics, proof, logic, science]
 summary: A reflective introduction to mathematics as a discipline of structure, proof, abstraction, and precise thought.
 ---
 # Introduction

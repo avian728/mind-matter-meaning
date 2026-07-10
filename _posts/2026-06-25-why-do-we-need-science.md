@@ -7,7 +7,6 @@ date: 2026-06-25
 last_updated: 2026-06-25
 category: science
 categories: [science]
-tags: [science, method, evidence, knowledge]
 summary: A reflective account of science as a disciplined way of testing ideas, correcting error, and understanding nature.
 ---
 # Introduction

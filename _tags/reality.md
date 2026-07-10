@@ -1,4 +1,0 @@
----
-title: Reality
-slug: reality
----

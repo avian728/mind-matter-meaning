@@ -1,6 +1,6 @@
 ---
 title: Search
-subtitle: Client-side search across article titles, subtitles, categories, tags, and excerpts.
+subtitle: Client-side search across article titles, subtitles, categories, and excerpts.
 permalink: /search/
 ---
 <form class="search-form" role="search">

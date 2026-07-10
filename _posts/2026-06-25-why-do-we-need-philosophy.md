@@ -7,7 +7,6 @@ date: 2026-06-25
 last_updated: 2026-06-25
 category: philosophy
 categories: [philosophy]
-tags: [philosophy, knowledge, reality, critical-thinking]
 summary: A reflective introduction to philosophy as the disciplined examination of basic assumptions, concepts, values, and ways of living.
 ---
 # Introduction

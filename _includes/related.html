@@ -2,8 +2,8 @@
 {% assign shown = 0 %}
 {% for post in related %}
   {% assign shared = false %}
-  {% for tag in page.tags %}
-    {% if post.tags contains tag %}{% assign shared = true %}{% endif %}
+  {% for category in page.categories %}
+    {% if post.categories contains category %}{% assign shared = true %}{% endif %}
   {% endfor %}
   {% if shared and shown < 3 %}
     {% if shown == 0 %}<section class="related"><h2>Related Articles</h2><div class="card-grid">{% endif %}

@@ -7,7 +7,6 @@ date: 2026-06-25
 last_updated: 2026-06-25
 category: literature
 categories: [literature]
-tags: [literature, meaning, reading, human-experience]
 summary: A reflective account of literature as a serious form of attention to language, experience, imagination, and meaning.
 ---
 # Introduction

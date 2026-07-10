@@ -9,7 +9,6 @@ permalink: /search.json
     "subtitle": {{ post.subtitle | default: "" | jsonify }},
     "url": {{ post.url | relative_url | jsonify }},
     "category": {{ post.categories | first | default: "" | jsonify }},
-    "tags": {{ post.tags | join: " " | jsonify }},
     "excerpt": {{ post.excerpt | strip_html | normalize_whitespace | truncate: 180 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}

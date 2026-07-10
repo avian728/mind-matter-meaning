@@ -1,4 +1,0 @@
----
-title: Method
-slug: method
----

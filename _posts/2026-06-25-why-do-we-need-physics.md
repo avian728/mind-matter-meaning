@@ -7,7 +7,6 @@ date: 2026-06-25
 last_updated: 2026-06-25
 category: physics
 categories: [physics]
-tags: [physics, science, reality, mathematics]
 summary: A personal academic reflection on physics as the study of fundamental structure, measurement, and the intelligibility of nature.
 ---
 # Introduction

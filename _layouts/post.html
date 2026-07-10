@@ -16,8 +16,6 @@ layout: default
 
   <aside class="article-details" aria-label="Article metadata">
     <div><strong>Category</strong><span>{{ page.categories | join: ", " | default: page.category }}</span></div>
-    <div><strong>Tags</strong><span>{{ page.tags | join: ", " }}</span></div>
-    <div><strong>License</strong><span>{{ page.license | default: "CC BY-NC-SA 4.0" }}</span></div>
   </aside>
 
   {% if page.toc != false %}

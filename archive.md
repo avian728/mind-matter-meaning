@@ -7,16 +7,6 @@ permalink: /archive/
 {% for year in posts_by_year %}
 ## {{ year.name }}
 {% for post in year.items %}
-- [{{ post.title }}]({{ post.url | relative_url }}) · {{ post.date | date: "%B %-d, %Y" }} · {{ post.categories | join: ", " }}
+- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %-d, %Y" }}
 {% endfor %}
-{% endfor %}
-
-## Categories
-{% for category in site.categories %}
-- [{{ category.first | capitalize }}]({{ '/categories/#' | append: category.first | relative_url }}) ({{ category.last.size }})
-{% endfor %}
-
-## Tags
-{% for tag in site.tags %}
-- [{{ tag.first }}]({{ '/tags/#' | append: tag.first | relative_url }}) ({{ tag.last.size }})
 {% endfor %}
