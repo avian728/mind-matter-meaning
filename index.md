@@ -5,6 +5,7 @@ description: Exploring reality through science, philosophy, and literature.
 ---
 <section class="hero">
   <div class="hero-inner">
+    <div class="hero-copy">
     <p class="eyebrow">Permanent academic knowledge platform</p>
     <h1>Mind • Matter • Meaning</h1>
     <p>Exploring reality through science, philosophy, literature, mathematics, artificial intelligence, logic, and the history of ideas.</p>
@@ -13,6 +14,11 @@ description: Exploring reality through science, philosophy, and literature.
       <a class="button" href="{{ '/archive/' | relative_url }}">Browse Archive</a>
       <a class="button secondary" href="{{ '/search/' | relative_url }}">Search Articles</a>
     </div>
+    </div>
+    <figure class="hero-portrait">
+      <img src="{{ '/assets/images/abhay-pandey.jpeg' | relative_url }}" alt="Abhay Pandey at a historic fort" width="1100" height="1374">
+      <figcaption>Abhay Pandey</figcaption>
+    </figure>
   </div>
 </section>
 
